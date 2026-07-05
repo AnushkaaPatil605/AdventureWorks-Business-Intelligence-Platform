@@ -1,10 +1,6 @@
 # AdventureWorks-Business-Intelligence-Platform
 Power BI &amp; PostgreSQL Business Intelligence Dashboard with interactive sales, customer, product, geographical, and returns analysis.
 
-# AdventureWorks Business Intelligence Dashboard
-
-An end-to-end Business Intelligence project built using **Power BI** and **PostgreSQL** to analyze AdventureWorks sales data and transform raw data into interactive dashboards that support business decision-making.
-
 ---
 
 ## Project Overview
